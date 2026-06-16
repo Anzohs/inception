@@ -1,2 +1,5 @@
 *.pdf
 .zshrc
+srcs/.env
+srcs/secrets
+secrets
